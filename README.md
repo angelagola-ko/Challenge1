@@ -24,7 +24,7 @@ Revised and edited by angelagola-ko to meet accessibility standards by providing
 
 # License
 
-Copyright (c) {{ 2019 }}, {{ Horiseon Social Solution Services, Inc }}
+Copyright (c) 2019, Horiseon Social Solution Services, Inc
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
