@@ -21,6 +21,6 @@ Revised by Angela Gola
 
 # License???
 
-![alt text](assets/images/Horiseon-top.png) 
-![alt text](assets/images/Horiseon-middle.png) 
-![alt text](assets/images/Horiseon-bottom.png) 
+![alt text](./assets/images/Horiseon-top.png) 
+![alt text](./assets/images/Horiseon-middle.png) 
+![alt text](./assets/images/Horiseon-bottom.png) 
