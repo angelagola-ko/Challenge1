@@ -21,4 +21,6 @@ Revised by Angela Gola
 
 # License???
 
-![alt text](assets/images/screenshot.png) How do I get a long screenshot?
+![alt text](assets/images/Horiseon-top.png) 
+![alt text](assets/images/Horiseon-middle.png) 
+![alt text](assets/images/Horiseon-bottom.png) 
