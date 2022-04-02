@@ -1,4 +1,4 @@
-* {
+* { /*This effects eveything on the page*/
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -28,7 +28,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; /*Fixed parenthesis*/
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; /*This gives options for different styles if some are not available on users comuputer*/
     font-size: 20px;
 }
 
@@ -100,7 +100,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -119,7 +119,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*Deleted a ton of duplicate code and condensed it*/
 
 .footer {
     padding: 30px;
