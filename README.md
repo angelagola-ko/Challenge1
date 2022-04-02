@@ -5,17 +5,19 @@ explain links
 how to use app what its for.
 
 # Contact
-If you have questions, comments, or suggestions please reach out by email at insetemailhere@gmail.com
+If you have questions, comments, or suggestions please reach out by email at angelagola-ko@gmail.com
 
 # Website
- Insert Link Here
+ https://angelagola-ko.github.io/Horiseon-Inc/
 
  # Git
 
  To download this repositiory add this to bash:
+ git clone git@github.com:angelagola-ko/Horiseon-Inc.git
 
- git clone *Insert Link Here*
 # Credits
+Starter Code provided by 
+Revised by Angela Gola
 
 # License???
 
