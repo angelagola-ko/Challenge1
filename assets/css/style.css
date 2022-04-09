@@ -36,7 +36,7 @@ body {
 }
 
 .header nav ul {
-    /*This takes away any style like underlink for links*/
+    /*This takes away any style like underlining for links*/
     list-style-type: none;
 }
 
@@ -51,6 +51,7 @@ a {
     /*You can use a six digit number or type in "blue" and a basic color will appear*/
     /* You can click on the color and pick a different color*/
     text-decoration: none;
+    /*This removes any text-decoration like underline*/
 }
 
 .about {
