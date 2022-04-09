@@ -3,18 +3,20 @@
     padding: 0;
     margin: 0;
 }
-
+/*This changes the color of the background*/
 body {
     background-color: #d9dcd6;
 }
 
 .header {
-    padding: 20px; /*First font is chosen first, on to next ones if not supported by computer*/
+    padding: 20px; 
+    /*First font is chosen first, on to next ones if not supported by computer*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
+/*This effects the header h1 section of the html*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -28,39 +30,51 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
+    /*First font is chosen first, on to next ones if not supported by computer*/
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; 
     font-size: 20px;
 }
 
 .header nav ul {
+    /*This takes away any style like underlink for links*/
     list-style-type: none;
 }
 
-.header nav ul li { /* this only effects the <li> code inside of the header*/
+.header nav ul li { 
+    /* this only effects the <li> code inside of the header*/
     display: inline-block;
     margin-left: 25px;
 }
 
 a {
-    color: #ffffff; /*You can use a six digit number or type in "blue" and a basic color will appear*/
+    color: #ffffff; 
+    /*You can use a six digit number or type in "blue" and a basic color will appear*/
+    /* You can click on the color and pick a different color*/
     text-decoration: none;
 }
 
 .about {
+    /*This says how big the section will be - 800px*/
     height: 800px;
     width: 100%;
+    /*Margin adds space around the section*/
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
+    /*The image can be left to its natural size, stretched, or constrained to fit the available space.*/
     background-size: cover;
     background-position: center;
 }
 
 p {
+    /*Effects anything with a <p> tag*/
     font-size: 16px;
 }
 
 .content {
     width: 75%;
+    /*Inline-block takes up the space of an entire line.
+    Allows a set width and height, and padding/margins are respected.
+    Can have two elements sit next to each other.*/
     display: inline-block;
     margin-left: 20px;
 }
@@ -69,12 +83,14 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    /*First font is chosen first, on to next ones if not supported by computer*/
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
-.tools img {/*This  makes sure the image does not get too big*/
+.tools img {
+    /*This  makes sure the image does not get too big*/
     max-height: 200px;
 }
 
@@ -83,12 +99,16 @@ p {
     font-size: 36px;
 }
 
-.float-left { /*This will effect multiple areas in the document. It gets the text on correct side of image*/
+.float-left { 
+    /*Gets the text on correct side of image and allows elements
+    to wrap around it.*/
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    /*Gets the text on correct side of image and allows elements
+    to wrap around it.*/
     float: right;
     margin-left: 25px;
 }
@@ -98,13 +118,16 @@ p {
     padding: 20px;
     clear: both;
     float: right;
+    /*Defines the width and height as a percentage of the containing block's width and height.*/
     width: 20%;
     height: 100%;
+    /*First font is chosen first, on to next ones if not supported by computer*/
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
 .benefit-lead {
+    /* Effects only the margin on the bottom*/
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -123,6 +146,7 @@ p {
 .footer {
     padding: 30px;
     clear: both;
+    /*First font is chosen first, on to next ones if not supported by computer*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
